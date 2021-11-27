@@ -1,6 +1,8 @@
 # Work Day Scheduler
-An app for scheduling daily activities. 
+An app for scheduling daily activities.  
 
+## Technologies
+This project uses built in web APIs for local storage, event listeners and time intervals. Also makes use of thrid party APIs like Bootstrap, jQeury and Moment.js.
 
 
 
